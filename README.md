@@ -1,12 +1,12 @@
-#Banking System
+# Banking System
 
-#Overview
+## Overview
 
-A Python-based banking system that supports account creation, deposits, transfers, payments with cashback, and account merging.
+A Python-based banking system supporting account creation, deposits, transfers, payments with cashback, and account merging.
 
-#Features
+## Features
 
-Create, deposit, transfer, and merge accounts
-Track payments and cashback events
-List top spenders
-Retrieve account balance at specific times
+- Create, deposit, transfer, and merge accounts
+- Track payments and cashback events
+- List top spenders
+- Retrieve account balance at specific times
